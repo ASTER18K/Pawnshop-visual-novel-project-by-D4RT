@@ -4,6 +4,10 @@
 ***
 Last build 2017-02-17
 ***
+![Main](./P/Main.jpg)
+![Save](./P/Save.jpg)
+![G](./P/G.jpg)
+***
 <br>
  2022-02-24에 복원된 소스코드.
 
